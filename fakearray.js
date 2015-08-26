@@ -14,9 +14,8 @@
 // };
 
 
-var array = module.exports.array = function(arr) {
-  var arr = [1,2,3],
-    lastElem = arr.pop();
+module.exports = {
+arr : [1,2,3]
 };
 
 // var arr = [1,2,3],
